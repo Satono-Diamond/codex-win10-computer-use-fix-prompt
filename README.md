@@ -1,4 +1,3 @@
-
 # Codex Windows 10 Computer Use Fix Prompt
 
 This repository contains an unofficial self-repair Goal prompt for diagnosing
@@ -34,5 +33,4 @@ build a machine-specific compatibility solution, test it, and provide rollback.
 4. Copy the Goal prompt into a new Codex project/thread.
 5. Let Codex investigate and build against that machine's local installation.
 6. Review the generated preflight/install/rollback steps before applying them.
-
 

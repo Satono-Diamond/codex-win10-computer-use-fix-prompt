@@ -1,0 +1,28 @@
+# Diagnostics and crash artifacts
+*.log
+*.dmp
+*.etl
+
+# Binaries and debug artifacts
+*.exe
+*.dll
+*.sys
+*.pdb
+
+# Local work and backups
+backup/
+backups/
+logs/
+private/
+tmp/
+
+# Secrets and local state
+.env
+.env.*
+auth.json
+.codex/
+
+# Vendor and installed application content
+WindowsApps/
+chrome-extension/
+
